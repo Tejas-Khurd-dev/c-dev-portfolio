@@ -2,7 +2,7 @@
 #include<stdbool.h>
 
 int main() {
-    int n, hf;
+    int n;
     bool flag = false;
     printf("Enter a number: ");
     scanf("%d", &n);
