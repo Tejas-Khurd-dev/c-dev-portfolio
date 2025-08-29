@@ -3,21 +3,8 @@
 This repository contains my collection of C programs organized into topic-wise folders.  
 Each folder has solved problems and example codes to practice C programming.
 
-## 📂 Folder Structure
-1. 1.Basic
-2. 2.Conditional Statements
-3. 3.Loops
-4. 4.Pattern Printing
-5. 5.Functions
-6. 6.Recursion
-7. 2D Array
-8. Array
-9. Strings
-10. Scope_And_Pointers
-11. Structure
-12. Unions
-
 ---
 "Learning never exhausts the mind." – Leonardo da Vinci
+
 
 
